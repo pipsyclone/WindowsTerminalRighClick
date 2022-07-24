@@ -1,0 +1,7 @@
+1. Klik file pada tombol diatas, buka powershell as administrator
+2. Jika Tidak bisa run script jalan kan perintah berikut 
+ 	" Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass "
+3. Jika sudah untuk menambahkan windows terminal pada context menu jalankan perintah berikut
+	" .\SetupWindowsTerminalRightClick.ps1 "
+4. Jika ingin menghilangkan windows terminal pada context menu jalankan perintah berikut
+	" .\RemoveWindowsTerminalRightClick.ps1 "
